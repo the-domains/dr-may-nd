@@ -1,0 +1,28 @@
+name: 'Dr. May, ND'
+favicon: null
+layout_spectrum: 0.621978041017428
+typography_spectrum: 0.34597989870235324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.22546340757980943
+  lightness: 0.7188955766614527
+  saturation: 0.2910268916748464
+  rhythmicContrast: 0.9289582679048181
+purpose: []
